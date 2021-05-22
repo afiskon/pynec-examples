@@ -39,4 +39,4 @@ ax.set_thetagrids(range(-90, 91, 15))
 ax.set_theta_direction(-1)
 ax.grid(True)
 
-fig.savefig('azimuth.png')
+fig.savefig('invv-azimuth.png')

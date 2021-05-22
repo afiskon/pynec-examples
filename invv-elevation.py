@@ -39,4 +39,4 @@ ax.set_rlabel_position(-90)
 ax.set_thetagrids(range(0, 360, 15))
 ax.grid(True)
 
-fig.savefig('elevation.png')
+fig.savefig('invv-elevation.png')
