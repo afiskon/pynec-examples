@@ -17,4 +17,5 @@ open invv-*.png
 
 # ZS6BKW
 time ./zs6bkw-optimize.py | tee zs6bkw-result.txt
+cat zs6bkw-result.txt | grep 'nbands = 5' | grep 'worse_swr = 1.4'
 ```
